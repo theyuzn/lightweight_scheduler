@@ -14,8 +14,8 @@ Which might devide the UEs into 2 types:
 ## File structure
 
 ## Implment
-* (How to build)
-* (How to execute)
-* (config file)
+* [How to build](./doc/doc/build_guide.md)
+* [How to execute](./doc/doc/execute_guide.md)
+* [config files](./config_file/)
 
 ## TBD ...
